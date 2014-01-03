@@ -140,10 +140,6 @@ this and tested these.
 
 * John Beyers, Andy Au, and Suzzane Sands
   * Leadership, Mathematics and Statistics, UMUC
-
-<!---
 * UMUC's Center for Teaching and Learning
   * Faculty Professional Development Grant
--->
-
 * Many, many, many students
